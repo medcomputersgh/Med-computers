@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://medcomputersgh.github.io/Med-computers/sitemap.xml
